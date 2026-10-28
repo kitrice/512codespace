@@ -1,0 +1,9 @@
+{
+  "mcp": {
+    "jupyter-mcp": {
+      "type": "remote",
+      "url": "http://localhost:3001/mcp",
+      "enabled": true
+    }
+  }
+}
